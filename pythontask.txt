@@ -1,0 +1,13 @@
+//Code for the Task
+
+import math
+radius = float(input("input the radius of a circle"))
+area = math.pi * radius ** 2
+print("The area of the circle with radius" +str(radius)+" is: "+str(area))
+
+//OutPut from my Pycham App
+:\Users\user\PycharmProjects\HelloWorld\venv\Scripts\python.exe C:/Users/user/PycharmProjects/HelloWorld/app.py
+input the radius of a circle 2.2
+The area of the circle with radius2.2 is: 15.2053084434
+
+Process finished with exit code 0
